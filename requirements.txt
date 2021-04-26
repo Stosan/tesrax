@@ -3,3 +3,4 @@ djangorestframework==3.12.4
 mysqlclient==2.0.1
 ipython==7.20.0
 pillow==8.2.0
+django-heroku==0.3.1
